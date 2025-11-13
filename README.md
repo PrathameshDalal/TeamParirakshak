@@ -1,5 +1,5 @@
 
-# Crime Dectection Alert System
+# Crime Detection Alert System
 
 ## Summary 
 
